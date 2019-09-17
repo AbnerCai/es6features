@@ -6,7 +6,7 @@ ECMAScript 6， 也称为 ECMAScript 2015， 它是最新的 ECMAScript 标准�
 查看 [ES6 标准](http://www.ecma-international.org/ecma-262/6.0/) 来了解 ECMAScript 6 详细规范。
 
 ES6 包含以下的新特性：
-- [arrows](#arrows)
+- [箭头函数](#箭头函数)
 - [classes](#classes)
 - [enhanced object literals](#enhanced-object-literals)
 - [template strings](#template-strings)
@@ -28,9 +28,9 @@ ES6 包含以下的新特性：
 - [reflect api](#reflect-api)
 - [tail calls](#tail-calls)
 
-## ECMAScript 6 Features
+## ECMAScript 6 新特性
 
-### Arrows
+### 箭头函数
 Arrows are a function shorthand using the `=>` syntax.  They are syntactically similar to the related feature in C#, Java 8 and CoffeeScript.  They support both statement block bodies as well as expression bodies which return the value of the expression.  Unlike functions, arrows share the same lexical `this` as their surrounding code.
 
 ```JavaScript
