@@ -1,11 +1,11 @@
 # ECMAScript 6 <sup>[git.io/es6features](http://git.io/es6features)</sup>
 
-## Introduction
-ECMAScript 6, also known as ECMAScript 2015, is the latest version of the ECMAScript standard.  ES6 is a significant update to the language, and the first update to the language since ES5 was standardized in 2009. Implementation of these features in major JavaScript engines is [underway now](http://kangax.github.io/es5-compat-table/es6/).
+## 简介
+ECMAScript 6， 也称为 ECMAScript 2015， 它是最新的 ECMAScript 标准。ES6 是自 2009 年发布的 ES5 之后的第一次重大更新。主要实现这些特性的 JavaScript 引擎是 [underway now](http://kangax.github.io/es5-compat-table/es6/)。
 
-See the [ES6 standard](http://www.ecma-international.org/ecma-262/6.0/) for full specification of the ECMAScript 6 language.
+查看 [ES6 标准](http://www.ecma-international.org/ecma-262/6.0/) 来了解 ECMAScript 6 详细规范。
 
-ES6 includes the following new features:
+ES6 包含以下的新特性：
 - [arrows](#arrows)
 - [classes](#classes)
 - [enhanced object literals](#enhanced-object-literals)
